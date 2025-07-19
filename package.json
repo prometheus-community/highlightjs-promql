@@ -1,0 +1,19 @@
+{
+  "name": "highlightjs-promql",
+  "version": "0.0.0",
+  "description": "Bundle of promql language for Highlight.js.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/celian-garcia/highlightjs-promql"
+  },
+  "bugs": {
+    "url": "https://github.com/celian-garcia/highlightjs-promql/issues"
+  },
+  "keywords": [
+    "promql",
+    "monaco",
+    "monaco-editor",
+    "prometheus"
+  ]
+}
