@@ -2,4 +2,5 @@
 
 TODO
 
-![](./docs/img.png)
+![](./docs/img_light.png)
+![](./docs/img_dark.png)
